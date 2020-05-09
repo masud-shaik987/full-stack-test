@@ -2,13 +2,23 @@ h1{
     color: red;
 }
 
-h2{
-    color: darkred;
+p{
     text-align: center;
+}
+
+h2{
+    color:black;
+    text-align: center;
+    background-color: darkgoldenrod;
 }
 
 body{
     background-color: palegreen;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .masud_square{
@@ -21,4 +31,21 @@ body{
 #masud_circle{
     color: black;
     font-size: 40px;
+}
+
+.container {
+    background-color: rebeccapurple;
+}
+
+.list{
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+    display: inline-block;
+}
+
+form{
+    text-align: center;
 }
