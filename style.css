@@ -4,4 +4,21 @@ h1{
 
 h2{
     color: darkred;
+    text-align: center;
+}
+
+body{
+    background-color: palegreen;
+}
+
+.masud_square{
+    width: 100px;
+    height: 100px;
+    background-color: seagreen;
+    margin: auto;
+}
+
+#masud_circle{
+    color: black;
+    font-size: 40px;
 }
