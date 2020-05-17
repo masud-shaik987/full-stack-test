@@ -1,0 +1,16 @@
+.container{
+    box-shadow: 3px 3px 5px #0059b3 ;
+    text-align: center;
+    background: linear-gradient(to right,#b3e6ff,#e6f7ff)
+}
+
+h1  {
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2  {
+    color: rgb(204, 255, 204);
+    text-shadow: 1px 1px 10px black;
+}
+
