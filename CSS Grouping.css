@@ -1,0 +1,39 @@
+body{
+    background-image: url(joker.jpg);
+    background-size: cover;
+}
+.container{
+    /*
+    box-shadow: 3px 3px 5px #0059b3 ;
+    text-align: center;
+    background: linear-gradient(to right,#737373,#d9d9d9
+    )
+    */
+}
+
+
+/* css grouping start */
+
+h1, h2, h3, .class  {
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+    line-height: 1rem;
+    font-family: sans-serif;
+    background: linear-gradient(to right,#737373,#d9d9d9)
+    
+}
+/* css grouping end */
+
+.borderimg{
+    border: 5px dashed red;
+}
+
+ul li {
+    color: white;
+    font-size: 20px;
+}
+
+ul > li {
+    color: brown;
+    font-size: 30px;
+}
